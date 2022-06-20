@@ -5,4 +5,6 @@ The binary classification problem: given two weeks of trading data (using Yahoo 
 
 Project is fully contained to stocks_model.ipnyb
 
-Dependencies: numpy, matplotlib, pandas, yfinance, skrebate, sklearn, keras
+### Dependencies### 
+numpy, matplotlib, pandas, yfinance, skrebate, sklearn, keras
+Quickest way to run the notebook is to open in Google Colab
